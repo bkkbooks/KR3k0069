@@ -1,0 +1,33 @@
+canonical_identifier: bkk:krp/KR3k0069/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR3k0069/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 兔園策府
+  identifiers:
+    krp: KR3k0069
+  tags:
+    kr-categories: KR3k
+  source:
+    repository: tls-texts
+    path: data/tls/KR3k0069.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR3k0069_001-CHANT.yaml, hash: 'sha256:3f6211c22ca013a7a32562b20d1633381d94a5563304214863838ceff6ac3774'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3k0069_001-CHANT.markers.yaml, hash: 'sha256:2f8e7a07652f9dfdd51b20bdd40aed19c9abdd184d77b860d6891ab7e30c2949'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3k0069_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 8930
+  label: 兔園策府卷第一
+  type: section
+  level: 1
+hash: sha256:f11157d383351cb4af6d7ac8dba5c1192275cec43ec3d94d3a161f735bc67dfa
