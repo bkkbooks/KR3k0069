@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3k0069_001.yaml, hash: 'sha256:7cc634708b4131563ad9701512d307a258fc7ab8ee6d1056f576aa9570f2806e'}
+  - {seq: 1, filename: KR3k0069_001.yaml, hash: 'sha256:3f6211c22ca013a7a32562b20d1633381d94a5563304214863838ceff6ac3774'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3k0069_001.markers.yaml, hash: 'sha256:6589101910cc77c067f26e6bcf00865c1ecfef12e7c1b15f262963d328e05288'}
+  - {seq: 1, role: markers, filename: assets/KR3k0069_001.markers.yaml, hash: 'sha256:4b9b02cfff39583af10882ef97922ce3a9effcc735b5daa8723c6a9f8b5bea79'}
 table_of_contents:
 - ref:
     seq: 1
@@ -30,7 +30,4 @@ table_of_contents:
   label: 兔園策府卷第一
   type: section
   level: 1
-hash: sha256:b343a9a38ebd77c47f619f211eaffbba6a601e1b97f00125a236306a6b0cf5b4
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:9151981f0542678fe132faa9d1d2bbeced778a8127e02da071e6cb569bf69000
