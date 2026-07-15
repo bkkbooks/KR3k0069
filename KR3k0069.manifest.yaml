@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3k0069/v1
 canonical_location: https://kanripo.org/bkk/KR3k0069/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 兔園策府
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3k0069_001.yaml, hash: 'sha256:3f6211c22ca013a7a32562b20d1633381d94a5563304214863838ceff6ac3774'}
+  - {seq: 1, filename: KR3k0069_001.yaml, hash: 'sha256:d37cde1a9cccd739da063336b525decbd2d3dab6404d4c159e9824cd0ae73069'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3k0069_001.markers.yaml, hash: 'sha256:4b9b02cfff39583af10882ef97922ce3a9effcc735b5daa8723c6a9f8b5bea79'}
+  - {seq: 1, role: markers, filename: assets/KR3k0069_001.markers.yaml, hash: 'sha256:df61da1d05508671b9a6e7bc2f5ba69f1aa02eb5d9651bb942adad7fed064b6c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -30,4 +30,7 @@ table_of_contents:
   label: 兔園策府卷第一
   type: section
   level: 1
-hash: sha256:9151981f0542678fe132faa9d1d2bbeced778a8127e02da071e6cb569bf69000
+hash: sha256:1d06dc8d2aa1066c5a63004afc954b25dbfee503b776a1f85174b0c7447a7fad
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
